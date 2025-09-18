@@ -166,7 +166,7 @@
   </footer>
 
   <script>
-    // Menu móvel simples
+
     const btn = document.querySelector('.nav-toggle');
     const menu = document.querySelector('#menu');
     btn?.addEventListener('click', () => {
@@ -174,7 +174,7 @@
       btn.setAttribute('aria-expanded', String(!open));
       menu.classList.toggle('open');
     });
-    // Ano no footer
+  
     document.getElementById('year').textContent = new Date().getFullYear();
   </script>
 </body>
