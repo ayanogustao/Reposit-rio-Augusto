@@ -11,4 +11,4 @@ Site simples e responsivo para apresentar quem sou, competências e projetos.
 - Em *Settings → Pages* escolhe **Deploy from a branch** e a branch `main`, pasta `/root`.
 - O GitHub cria o link público do teu site.
 
-Boa edição! 😉
+
