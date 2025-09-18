@@ -12,3 +12,14 @@ Site simples e responsivo para apresentar quem sou, competências e projetos.
 - O GitHub cria o link público do teu site.
 
 
+## Estrutura
+
+├─ index.html
+├─ assets/
+│ └─ styles.css
+└─ README.md
+
+## Ver localmente
+- Clica duas vezes no `index.html`  
+    ou
+- No VS Code, usa a extensão **Live Server** para “Open with Live Server”.
