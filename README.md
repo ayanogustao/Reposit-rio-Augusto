@@ -23,3 +23,5 @@ Site simples e responsivo para apresentar quem sou, competências e projetos.
 - Clica duas vezes no `index.html`  
     ou
 - No VS Code, usa a extensão **Live Server** para “Open with Live Server”.
+
+alterado hoje domingo 
