@@ -24,4 +24,6 @@ Site simples e responsivo para apresentar quem sou, competências e projetos.
     ou
 - No VS Code, usa a extensão **Live Server** para “Open with Live Server”.
 
-alterado hoje domingo 
+# Primeira Tag implementada!!
+
+- Primeira versão do portefólio (HTML/CSS) — Sobre, Competências, Projetos
